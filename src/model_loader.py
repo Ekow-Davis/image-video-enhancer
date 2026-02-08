@@ -52,3 +52,6 @@ def load_realesrgan(
 
     print(f"✔ Real-ESRGAN loaded on {device.upper()}")
     return upsampler
+
+if __name__ == "__main__":
+    load_realesrgan()
