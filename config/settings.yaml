@@ -1,0 +1,5 @@
+scale: 4
+model: RealESRGAN_x4plus
+input_image_dir: input/images
+output_image_dir: output/images
+use_gpu: false
